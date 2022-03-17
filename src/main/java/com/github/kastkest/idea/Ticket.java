@@ -4,11 +4,6 @@ import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
-import java.text.ParseException;
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
-import java.util.Date;
-import java.util.List;
 
 @Getter
 @NoArgsConstructor
@@ -44,6 +39,3 @@ public class Ticket {
     }
 
 }
-
-
-
